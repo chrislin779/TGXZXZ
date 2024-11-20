@@ -1,6 +1,6 @@
 # Telegram 内容下载工具
 
-**本人工作之余基于开源 [Telethon](https://github.com/LonamiWebs/Telethon) 开发的，需要下载请到 [Releases]([https://github.com/你的仓库/releases](https://github.com/chrislin779/TGXZXZ/releases/download/TG/ok.zip))。**
+**本人工作之余基于开源 [Telethon](https://github.com/LonamiWebs/Telethon) 开发的，需要下载请到 [Releases](https://github.com/chrislin779/TGXZXZ/releases/download/TG/ok.zip))。**
 
 该程序是一款专门用于**<span style="color:blue;">绕过 Telegram 限制并下载内容</span>**的工具，操作过程简单直观。以下是详细说明：
 
